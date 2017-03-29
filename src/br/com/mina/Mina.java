@@ -5,5 +5,7 @@ import java.util.List;
 public class Mina <T extends Pedra> {
 	
 	private List<T> pedras;
+	
+	private String texto;
 
 }
