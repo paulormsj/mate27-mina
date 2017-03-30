@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Mineiro {
 	
-	private Mina<Ouro> minaDeOuro;
+	private Mina<Ouro, Long> minaDeOuro;
 	
 	private List<Pedra> listaDePedra;
 	
